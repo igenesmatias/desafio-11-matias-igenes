@@ -1,0 +1,30 @@
+@import "nav";
+@import "main"; 
+@import "variables";
+
+/* estilo imagenes */
+img {
+    height: 40em;
+    display: block;
+    margin: 0px auto;
+    
+}
+
+/* estilo card bootstrap */ 
+.card-img-top {
+    width: 350px !important;
+    height: 350px !important;
+    
+}
+
+.card {
+    padding: 15px !important;
+    text-align: center !important;
+}
+
+
+
+div {
+    padding: $spacing-1;
+    background-color: $color-primary;
+}

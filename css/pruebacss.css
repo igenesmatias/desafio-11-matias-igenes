@@ -1,0 +1,47 @@
+/* Estilo nav */
+#navbarNavAltMarkup {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: flex-end !important; }
+
+.navbar-brand {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+  font-size: 25px !important; }
+
+/*estilos en clases */
+.ser {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
+.introduccion {
+  font-weight: bold;
+  padding: 10px; }
+
+.mb-3 {
+  margin: 15px;
+  border: solid;
+  background-color: #9b9b9b; }
+
+.formulario {
+  display: flex !important;
+  justify-content: center !important; }
+
+/* Variables */
+/* estilo imagenes */
+img {
+  height: 40em;
+  display: block;
+  margin: 0px auto; }
+
+/* estilo card bootstrap */
+.card-img-top {
+  width: 350px !important;
+  height: 350px !important; }
+
+.card {
+  padding: 15px !important;
+  text-align: center !important; }
+
+div {
+  padding: 5px;
+  background-color: #648b8b; }
