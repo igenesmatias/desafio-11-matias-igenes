@@ -45,3 +45,23 @@ img {
 div {
   padding: 5px;
   background-color: #648b8b; }
+
+  .btn--twitter {
+    background-color: #55acee;
+ }
+ 
+ .btn--facebook {
+    background-color: #3a5795;
+ }
+ 
+ .btn--send-mail {
+    background-color: #C25E30;
+ }
+
+div {
+  background-color:#3673D9;
+  Text-align:center;
+  Padding:0.5rem;
+  Font-size:15px;
+}
+
