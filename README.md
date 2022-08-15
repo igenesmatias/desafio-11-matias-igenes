@@ -38,3 +38,9 @@ div {
   padding: map-get($estilos, 1rem);
   font-size:map-get($estilos, tFuente);
 }
+
+Edite las keywords me quede con 5
+<meta name="Keywords" content="Obras Viales, uruguay, artigas, paysandu, ingeniero">
+
+Agregue mixin en sass y css
+

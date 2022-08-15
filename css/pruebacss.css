@@ -65,3 +65,9 @@ div {
   Font-size:15px;
 }
 
+.box {
+	Display:flex;
+flex-direction:row;
+justify-content:center;
+}
+
